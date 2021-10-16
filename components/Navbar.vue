@@ -25,8 +25,3 @@
     </b-navbar>
   </div>
 </template>
-<style scoped>
-b-navbar-nav {
-  margin-left: 20px;
-}
-</style>

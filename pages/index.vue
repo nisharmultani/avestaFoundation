@@ -7,7 +7,7 @@
 
 <script>
 import Navbar from "@/components/Navbar.vue";
-import heroHeader from '@/components/heroHeader.vue';
+import heroHeader from "@/components/heroHeader.vue";
 export default {
   components: {
     Navbar,
